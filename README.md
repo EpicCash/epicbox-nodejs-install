@@ -1,7 +1,7 @@
 # epicbox-nodejs - Installation Files for 3.0.1
 
 NOTICE - This is for a manual install of mongodb and epicbox. For an updated automated Docker solution go to repo
-https://github.com/EpicCash/epicboxnodejs-source
+https://github.com/EpicCash/epic-epicbox-docker
 
 Files for Installing the epicbox Server
 
